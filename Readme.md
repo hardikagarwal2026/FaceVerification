@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Setup
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/FaceVerification.git
+git clone https://github.com/hardikagarwal2026/FaceVerification.git
 cd FaceVerification
 
 # Create virtual environment (optional but recommended)
@@ -67,5 +67,3 @@ FaceVerification/
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
